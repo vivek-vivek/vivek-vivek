@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek K</h1>
 <h3 align="center">A passionate Flutter mobile app developer from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vivek-vivek&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpj-program&psig=AOvVaw17gJLPFDopCTIjoQb7YgJX&ust=1672642503190000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND7i4XlpfwCFQAAAAAdAAAAABAE)" alt="vivek-vivek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-vivek&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpj-program&psig=AOvVaw17gJLPFDopCTIjoQb7YgJX&ust=1672642503190000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND7i4XlpfwCFQAAAAAdAAAAABAE" alt="vivek-vivek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vivek" alt="vivek-vivek" /></a> </p>
 
