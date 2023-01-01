@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=" alt="vivek-vivek" /> </p>
 
+<p align="left"> <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="vivek-vivek" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vivek" alt="vivek-vivek" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
