@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivek K</h1>
-<h3 align="center">A passionate Flutter mobile app developer from India</h3>
 
 <p align="left"> <img src="<h1 align="center">Hi 👋, I'm Vivek K</h1>
 <h3 align="center">A passionate Flutter mobile app developer from India</h3>
