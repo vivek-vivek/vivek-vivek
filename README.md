@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-vivek&show_icons=true&locale=en" alt="vivek-vivek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-vivek&" alt="vivek-vivek" /></p>
-<p align="left"> <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="vivek-vivek" width="70%" height="50%"/> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="vivek-vivek" width="50%" height="50%"/> </p>
