@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek K</h1>
 <h3 align="center">A passionate Flutter mobile app developer from India</h3>
 
-<p align="left"> <img src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=" alt="vivek-vivek" /> </p>
+<p align="left"> <img src="https://i.imgur.com/3fAd0w8.gif" alt="vivek-vivek" /> </p>
 
 
 
