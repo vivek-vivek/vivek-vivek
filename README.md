@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivek-vivek?tab=repositories](https://github.com/vivek-vivek?tab=repositories)
 
-- 📫 How to reach me **codemygallery@gmail.com**
+- 📫 How to reach me **vivekkurupath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
