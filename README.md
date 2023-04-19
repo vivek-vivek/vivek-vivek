@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek K</h1>
 <h3 align="center">A passionate Flutter mobile app developer from India</h3>
 
-<p align="left"> <img src="https://i.imgur.com/3fAd0w8.gif" alt="vivek-vivek" /> </p>
+<!-- <p align="left"> <img src="https://i.imgur.com/3fAd0w8.gif" alt="vivek-vivek" /> </p> -->
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vivek" alt="vivek-vivek" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [RentRo - Rent a car application](hhttps://github.com/vivek-vivek/RENT24-apk)
-
-- 🌱 I’m currently learning **Flutter , Dart , REST Api, Data Structure , and Hive Local Database**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vivek-vivek?tab=repositories](https://github.com/vivek-vivek?tab=repositories)
-
-- 📫 How to reach me **vivekkurupath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,9 +29,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okke_bei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek kuruppath) 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/okke_bei) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-# 💻 Tech Stack:
+# 💻 FLUTTER DEVELOPER:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vivek-vivek&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
