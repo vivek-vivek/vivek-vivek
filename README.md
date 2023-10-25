@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek K</h1>
+<h1 align="center">👋Hi, I'm Vivek Kuruppath</h1>
 <h3 align="center">A passionate Flutter mobile app developer from India</h3>
 
 <!-- <p align="left"> <img src="https://i.imgur.com/3fAd0w8.gif" alt="vivek-vivek" /> </p> -->
